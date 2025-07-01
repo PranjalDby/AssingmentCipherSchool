@@ -12,6 +12,7 @@ Perform data cleaning and analysis on employee performance data using Python (pa
 Data set : https://docs.google.com/spreadsheets/d/1wrH9VMn3BB1t8Y5F7bmtC0z0-8QCRFRf/edit?usp=drive_link&ouid=106177324977353126171&rtpof=true&sd=true
 
 ✅ Tasks to Perform in Python:
+
 🔹 1. Data Cleaning
 Load the data using pandas.
 
@@ -46,3 +47,6 @@ low_performers: Employees with Performance Rating ≤ 2
 
 🔹 4. Output
 Save all the above into a single Excel file with multiple sheets using pandas.ExcelWriter.
+
+
+<b> Commited By Pranjal Dubey
